@@ -48,7 +48,11 @@ function mergeSort(arr){
     // return merge call 
     return merge(left, right);
 }
-// create random arrays 
-var data = Array.apply(null, {length: 50000}).map(Function.call, Math.random );
 
+
+// create random arrays 
+var data = Array.from({length: 400}, () => Math.floor(Math.random() * 40));
+console.log("Unsorted Array:");
+console.log(data);
+console.log("Sorted Array:");
 console.log(mergeSort(data));
