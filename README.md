@@ -34,8 +34,17 @@ What I want to accomplish:
 - Analyzing Performance of Arrays and Objects
 - Problem Solving Approch and Patterns
 - Recursion
-- Searching Algorithms (Linear and Binary)
-- Sorting Algorithms (BubbleSort, Insertion, Merge,Quicksort, Selection & RadixSort)
+- Searching Algorithms 
+  - Linear 
+  - Binary
+- Sorting Algorithms 
+  - BubbleSort 
+  - Insertion Sort 
+  - Merge Sort 
+  - Quicksort 
+  - Selection Sort 
+  - Radix Sort
+
 - Data Structures: 
   - Linked lists
   - Double Linked Lists
