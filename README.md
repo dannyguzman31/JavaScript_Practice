@@ -35,6 +35,12 @@ What I want to accomplish:
 - Problem Solving Approch and Patterns
 - Recursion
 - Searching Algorithms (Linear and Binary)
+- Sorting Algorithms (BubbleSort, Insertion, Merge,Quicksort, Selection & RadixSort)
+- Data Structures: 
+  - Linked lists
+  - Double Linked Lists
+  - Stacks 
+  - Queues 
 
 ### Language
 
