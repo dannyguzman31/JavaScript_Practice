@@ -50,6 +50,8 @@ What I want to accomplish:
   - Double Linked Lists
   - Stacks 
   - Queues 
+  - Binary Search Trees
+    - Tree Traversal: BFS, DFS (InOrder, PostOrder, PreOrder)
 
 ### Language
 
