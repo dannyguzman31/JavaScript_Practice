@@ -104,3 +104,4 @@ tree.insert(70);
 tree.insert(77);
 tree.insert(81);
 console.log(tree);
+console.log(tree.contains());
