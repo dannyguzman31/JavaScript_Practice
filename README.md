@@ -52,6 +52,10 @@ What I want to accomplish:
   - Queues 
   - Binary Search Trees
     - Tree Traversal: BFS, DFS (InOrder, PostOrder, PreOrder)
+  - Binary Heaps
+  - Hash Tables
+  - Graphs 
+    - Graph Traversal: BFS & DFS
 
 ### Language
 
